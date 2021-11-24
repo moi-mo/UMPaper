@@ -7,4 +7,4 @@ valine_micro_place_holder: "替换为微博客用占位符"
 # footer, html code
 footer: 
   - '<a href="{{ site.baseurl }}/static/xml/rss.xml">RSS</a> | '
-  - '<a href="https://github.com/moi-mo/umaize">Theme UMaize</a>'
+  - 'Themed by <a href="https://github.com/moi-mo/UMPaper">UMPaper</a>'

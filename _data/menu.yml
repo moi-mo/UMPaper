@@ -1,12 +1,10 @@
-- title: Categories
+- title: 首页
+  url: /
+- title: 标签
   url: /pages/categories.html
-- title: Search
-  url: /pages/search.html
-- title: Micro
-  url: /pages/micro.html
-- title: Links
+- title: 链接
   url: /pages/links.html
-- title: Message
+- title: 留言
   url: /pages/message.html
-- title: About
+- title: 关于
   url: /pages/about.html

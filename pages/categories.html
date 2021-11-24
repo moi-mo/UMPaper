@@ -5,10 +5,10 @@ title: Categories
 
 <div class="page page-categories">
   <div class="list-category">
-    <h2>All</h2>
+    <h2>全部标签</h2>
     <div>
       {%- for category in site.categories %}
-      <a href="javascript:document.getElementById('{{ category[0] }}').scrollIntoView()" >{{ category[0] }}</a>
+      <a href="javascript:document.getElementById('{{ category[0] }}').scrollIntoView()" ><u>{{ category[0] }}</u></a>
       {%- endfor %}
     </div>
   </div>

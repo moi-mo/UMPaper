@@ -1,10 +1,10 @@
 encoding: utf-8
 
 # SEO相关信息
-title: UMaize                               # 站的标题
+title: UMPaper                              # 站的标题
 description: A Jekyll Theme.                # 站的描述
 keywords: moimo,thoughts,scripts,Python     # 站的关键词，（ASCII）逗号分隔
-author: moimo233                            # 站的作者
+author: moiqwq                              # 站的作者(使用Twitter分享时at的id)
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
@@ -17,9 +17,6 @@ exclude: ['CNAME', 'README.md', 'LICENSE', '_site', 'dist', 'Gemfile', 'Gemfile.
 # baseurl配置,如果网站部署在根目录下的其他目录中，请设置为 /目录名
 domainUrl: 'https://rain.moimo.me'
 baseurl: ''
-
-# 点击页面文字冒出特效,不需要请设置为false
-extClickEffect: true
 
 # _includes/ext-adsense.html 里面修改为自己的配置
 extAdsense: false

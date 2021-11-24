@@ -1,8 +1,8 @@
 <header class="header select-none">
+  <b>{{ site.title }}</b>
   <nav class="menu">
-    <b><a href="{{ site.domainUrl }}" class="hover-underline">{{ site.title }}</a> </b>
     {% for menu in site.data.menu -%}
     <a href="{{ site.baseurl }}{{ menu.url }}" class="hover-underline">{{ menu.title }}</a>
     {% endfor -%}
-    </nav>
+  </nav>
 </header>

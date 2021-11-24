@@ -39,14 +39,14 @@
   top: 0;
   font-weight: bold;
   padding-right: 6px;
-  color: #2aa198;
+  color: #333333;
 }
 .page-post .post h2::before {
   content: '##';
   top: 0;
   font-weight: bold;
   padding-right: 6px;
-  color: #2aa198;
+  color: #333333;
 }
 .page-post h3,
 .page-post h4,
@@ -60,19 +60,24 @@
   top: 0;
   font-weight: bold;
   padding-right: 6px;
-  color: #2aa198;
+  color: #333333;
 }
 .page-post .post h4::before {
   content: '*';
   top: 0;
   font-weight: bold;
   padding-right: 6px;
-  color: #2aa198;
+  color: #333333;
 }
 .page-post blockquote {
   border-left: 3px solid #333333;
   background-color: #f7f7f7;
   padding: 9px 9px 9px 15px;
+}
+.page-post a {
+  color: #000000;
+  margin: 0 2px;
+  border-bottom: 1px solid ;
 }
 .page-post strong,
 .page-post b {
