@@ -1,8 +1,7 @@
 # valine
 valine_app_id: "将这个字符串替换为你的valine用AppID"
 valine_app_key: "替换为Valine用AppKey"
-valine_common_place_holder: "替换为一般占位符"
-valine_micro_place_holder: "替换为微博客用占位符"
+valine_common_place_holder: "替换为占位符"
 
 # footer, html code
 footer: 
